@@ -9,5 +9,13 @@
   },
   "keywords": [],
   "author": "Taro Matsuzawa <btm@tech.email.ne.jp> (https://smellman.hatenablog.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  },
+  "dependencies": {
+    "maplibre-gl": "^1.13.0-rc.4"
+  }
 }
